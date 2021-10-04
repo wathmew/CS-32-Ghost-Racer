@@ -1,0 +1,6 @@
+﻿  Actor.cpp
+C:\Users\Matthew\Desktop\GhostRacer\GhostRacer\Actor.cpp(36,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Matthew\Desktop\GhostRacer\GhostRacer\Actor.cpp(37,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  StudentWorld.cpp
+  Generating Code...
+  GhostRacer.vcxproj -> C:\Users\Matthew\Desktop\GhostRacer\Debug\GhostRacer.exe
